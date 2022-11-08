@@ -16,6 +16,20 @@ Some notes about the code you'll find here:
   implemented. This doesn't matter for discussing the parts that are there.
 - The code is intentionally written in a way to invite discussions.
 
+# Some general questions:
+
+- Can you Explain SOLID principles
+- Do you know what design patterns are, could you give an example?
+- what does it mean that something is thread safe e.g some collection
+- What is a lambda function and how would you use one
+
+- what's the difference between a struct and a class? How does a record fit in?
+- can you explain how to use async/await?
+- why would you need a dispose method?
+- what is polymorphism?
+- why would you use `using` in C#
+- give an example of scenario where using LINQ's SelectMany would be reasonable
+
 
 [gitlab]: https://git.tss.cloud/common/csharpinterview/-/merge_requests/2
 [reverse-code-review]: https://jacobian.org/2021/dec/15/wst-reverse-review/
