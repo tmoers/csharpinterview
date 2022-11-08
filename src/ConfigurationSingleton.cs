@@ -6,7 +6,8 @@
 
         protected ConfigurationSingleton()
         {
-            // Read everything from file and initialize properties
+            // Pretend this is OK, let's just do something to give it some URL
+            EmployeeServiceEndpoint = "http://google.com";
         }
 
         public static ConfigurationSingleton Instance
